@@ -22,7 +22,7 @@ the text input from the dataset.
  
  # Demo
  Demo1  
-  ![](demo2.gif)
+  ![](demo2.mov)
   </br>
  Demo2  
   ![](demo1.gif)
