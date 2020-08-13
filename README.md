@@ -21,9 +21,12 @@ the text input from the dataset.
   </br> </br>
  
  # Demo
-  </br> </br>
+ Demo1  
   ![](demo1.gif)
+  </br>
+ Demo2  
   ![](demo2.gif)
+    </br> </br>
  
  # Deployment
  ```bash
