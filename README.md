@@ -22,10 +22,10 @@ the text input from the dataset.
  
  # Demo
  Demo1  
-  ![](demo2.mov)
+  ![](demo2.MOV)
   </br>
  Demo2  
-  ![](demo1.gif)
+  ![](demo1.MOV)
     </br> </br>
  
  # Deployment
