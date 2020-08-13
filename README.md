@@ -22,6 +22,8 @@ the text input from the dataset.
  
  # Demo
   </br> </br>
+  ![](demo1.gif)
+  ![](demo2.gif)
  
  # Deployment
  ```bash
